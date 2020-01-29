@@ -4,9 +4,9 @@ import json
 
 persona = Persona()
 
-persona.nombre = "pepe"
-persona.apellido = "juarez"
-persona.edad = 28
+persona.nombre = "pedro"
+persona.apellido = "Rodriguez"
+persona.edad = 30
 
 jsonStr = json.dumps(persona.__dict__)
 
@@ -23,7 +23,7 @@ leerPersonas.close()
 
 listPersons = json.loads(listaPersonas)
 
-personaStr = json.JSONDecoder()
+# personaStr = json.JSONDecoder()
 
 personaObj = persona.__dict__
 

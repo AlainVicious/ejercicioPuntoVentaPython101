@@ -1,1 +1,22 @@
-[{"nombre": "juan", "apellido": "perez", "edad": 22}, {"nombre": "juan2", "apellido": "perez2", "edad": 222}, {"nombre": "pepe", "apellido": "juarez", "edad": 28}]
+[
+    {
+        "nombre": "juan",
+        "apellido": "perez",
+        "edad": 22
+    },
+    {
+        "nombre": "juan2",
+        "apellido": "perez2",
+        "edad": 222
+    },
+    {
+        "nombre": "pepe",
+        "apellido": "juarez",
+        "edad": 28
+    },
+    {
+        "nombre": "pedro",
+        "apellido": "Rodriguez",
+        "edad": 30
+    }
+]
