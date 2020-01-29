@@ -10,14 +10,6 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
-        },
-        {
-            "name": "init",
-            "type": "python",
-            "request": "launch",
-            "program": "${workspaceFolder}\\init.py",
-            "console": "integratedTerminal",
-            // "args": [1,2,3,4]
         }
     ]
 }
